@@ -4,13 +4,13 @@ Tauri 2 + React + TypeScript + Radix UI + Tailwind CSSで構築されたデス�
 
 ## 技術スタック
 
-- **Tauri 2.10** - 軽量で高速なデスクトップアプリフレームワーク
-- **React 18** - モダンなUIライブラリ
-- **TypeScript 5** - 型安全な開発
-- **Radix UI** - アクセシブルなUIコンポーネント
-- **Tailwind CSS** - ユーティリティファーストCSS
-- **Lucide React** - 美しいアイコンライブラリ
-- **Vite 5** - 高速ビルドツール
+- **Tauri**
+- **React**
+- **TypeScript**
+- **Radix UI**
+- **Tailwind CSS**
+- **Lucide React**
+- **Vite**
 
 ## プロジェクト構造
 
@@ -47,7 +47,7 @@ bqsr-tools/
 # 依存関係のインストール
 npm install
 
-# Tauri CLIのインストール（グローバル）
+# Tauri CLIのインストール
 cargo install tauri-cli --version "^2.0.0"
 ```
 
