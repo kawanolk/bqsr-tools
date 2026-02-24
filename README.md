@@ -48,7 +48,7 @@ bqsr-tools/
 npm install
 
 # Tauri CLIのインストール
-cargo install tauri-cli --version "^2.0.0"
+cargo install tauri-cli --version "2.10.0"
 ```
 
 ## 開発
