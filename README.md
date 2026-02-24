@@ -1,4 +1,4 @@
-# BQSR Tools
+# BPSR Tools
 
 Tauri 2 + React + TypeScript + Radix UI + Tailwind CSSで構築されたデスクトップアプリケーション
 
