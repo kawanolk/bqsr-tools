@@ -1,0 +1,75 @@
+# Rust
+/target
+Cargo.lock
+**/*.rs.bk
+
+# Node.js
+node_modules/
+/dist
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+.pnpm-store/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Tauri
+/gen
+/src-tauri/target
+
+# Build outputs
+/build
+*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-workspace
+*.sublime-project
+
+# OS
+Thumbs.db
+Desktop.ini
+.AppleDouble
+.LSOverride
+
+# Build artifacts
+*.exe
+*.dmg
+*.app
+*.deb
+*.AppImage
+*.msi
+*.rpm
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.cache
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Debug
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Security reports (internal use only)
+SECURITY.md
